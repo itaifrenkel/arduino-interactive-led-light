@@ -26,7 +26,7 @@
 
 #include <stdint.h>
 
-#define SOFTPWM_MAXCHANNELS 20
+#define SOFTPWM_MAXCHANNELS 32
 #define SOFTPWM_PWMDEFAULT 0x00
 
 #define SOFTPWM_NORMAL 0
